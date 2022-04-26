@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "Lakshmeesh H S",
+      "salary": "400000",
+      "company": "tyss",
+      "id": 1
+    },
+    {
+      "name": "abhi",
+      "salary": "12345",
+      "company": "lakkddf",
+      "id": 2
+    },
+    {
+      "name": "likhith",
+      "salary": "1234",
+      "company": "tata",
+      "id": 4
+    },
+    {
+      "name": "sandesh",
+      "salary": "2341",
+      "company": "tenova",
+      "id": 5
+    },
+    {
+      "name": "lakshmeesh",
+      "salary": "12345",
+      "company": "q spider",
+      "id": 6
+    },
+    {
+      "name": "prashanth",
+      "salary": "3467",
+      "company": "lajdhjd",
+      "id": 7
+    },
+    {
+      "name": "Anand",
+      "salary": "998989",
+      "company": "twudwq",
+      "id": 8
+    },
+    {
+      "name": "raj",
+      "salary": "1235",
+      "company": "sdkaks",
+      "id": 9
+    },
+    {
+      "name": "harish",
+      "salary": "7890",
+      "company": "qwti",
+      "id": 10
+    },
+    {
+      "name": "Sujatha",
+      "salary": "100080000",
+      "company": "home",
+      "id": 11
+    },
+    {
+      "name": "Yash",
+      "salary": "1000",
+      "company": "kjak",
+      "id": 12
+    }
+  ]
+}
